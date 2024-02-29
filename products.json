@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Snipcart Logo Sticker",
+    "id": "sticker_logo",
+    "description": "Show off your Snipcart support with a logo sticker!",
+    "price": "2.00"
+  },
+  {
+    "title": "Snipcart Logo T-Shirt",
+    "id": "tshirt_logo",
+    "description": "Show off your Snipcart support with a logo t-shirt!",
+    "price": "20.00"
+  },
+  {
+    "title": "Snipcart Logo Mug",
+    "id": "mug_logo",
+    "description": "Show off your Snipcart support with a logo mug!",
+    "price": "10.00"
+  }
+]
